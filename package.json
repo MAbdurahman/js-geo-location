@@ -1,0 +1,9 @@
+{
+  "name": "js-geo-location",
+  "version": "1.0.0",
+  "description": "HTML, CSS, and JavaScript application",
+  "main": "index.js",
+  "repository": "https://github.com/MAbdurahman/js-geo-location.git",
+  "author": "Mahdi Abdurrahman <mdbdrrhm@gmail.com>",
+  "license": "MIT"
+}
